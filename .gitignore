@@ -1,0 +1,14 @@
+/.DS_Store
+/.idea
+/.settings
+/.buildpath
+/.project
+/uploadgit.php
+/composer.lock
+/vendor/*
+/config/web.php
+/deployment.xml
+/deployment.properties
+tests/_output/*
+tests/_output/*
+/nohup.out
